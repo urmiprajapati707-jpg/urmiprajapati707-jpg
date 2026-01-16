@@ -1,4 +1,4 @@
-# 💫 About Me:
+ # 💫 About Me:
 🎓 Computer Science student passionate about technology<br><br>🔭 Currently working on Java-based projects<br><br>🌱 Learning Java, SQL, DSA & Web Development<br><br>👯 Open to collaborate on beginner-friendly and real-world projects<br><br>🤝 Looking for guidance in placements & interview preparation<br><br>💬 Ask me about Java, OOP concepts, and college projects<br><br>⚡ Fun fact: I love learning new skills and improving every day 🚀.
 
 
